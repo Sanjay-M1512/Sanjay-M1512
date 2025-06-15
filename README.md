@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="200"/>
+  <img src="https://github.com/SanjayM1512/qwerty/blob/master/Kirokaze%20Pixel%20-%20Pixel%20Artist%20in%20Lima%2C%20Peru.gif?raw=true" height="200" />
 </div>
-
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -49,4 +48,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjay-m1512&show_icons=true&locale=en&layout=compact" alt="sanjay-m1512" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjay-m1512&show_icons=true&locale=en" alt="sanjay-m1512" /></p>
-
