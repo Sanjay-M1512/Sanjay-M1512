@@ -12,8 +12,9 @@
 <h3 align="center">🚀 Building intelligent apps with AI, React & Python – straight outta India 🇮🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjay-m1512&label=Profile%20views&color=0e75b6&style=flat" alt="sanjay-m1512" /> </p>
+- 🔭 Current Project: Document Chatbot (AI-powered query & retrieval system)
 
-- 🔭 I’m currently working on [NL2SQL Converter A project that turns natural language into SQL using a React + Flask interface and PyTorch model.](https://nl-sql-sanjay-m1512s-projects.vercel.app/)
+- ✅ Completed (pending minor bug fixes):[NL2SQL Converter A project that turns natural language into SQL using a React + Flask interface and PyTorch model.](https://nl-sql-sanjay-m1512s-projects.vercel.app/)
 
 - 🌱 I’m currently learning **Advanced Deep Learning (YOLOv8, Xception, GANs), Cloud Platforms (AWS, GCP), and Scalable Backend Development with FastAPI & Flask**
 
