@@ -98,23 +98,28 @@ https://www.linkedin.com/posts/sanjay-m-31658b288_sih2025-smartindiahackathon-bl
 
 ---
 
-### 🧠 NL2SQL Converter – Natural Language to SQL
-> Converts plain English queries into SQL using a custom AI pipeline.
+### 🧠 NL → DBQ (Natural Language to Database Query)
+> Converts natural language queries into database-specific queries (SQL/NoSQL) using an intelligent AI pipeline.
 
-🔗 **Live:** https://nl-sql-sanjay-m1512s-projects.vercel.app/
+* 🔗 **Backend Repo:** https://github.com/Sanjay-M1512/NL_DBQ_Backend  
+* 🔗 **Frontend Repo:** https://github.com/Sanjay-M1512/data-weaver  
 
 #### 🔧 Tech Stack
-- **Frontend:** React  
-- **Backend:** Flask  
-- **AI Model:** PyTorch (Seq2Seq + Attention)  
-- **Database:** MySQL  
+* **Frontend:** React (Lovable-generated UI)  
+* **Backend:** Flask / FastAPI  
+* **AI System:** LLM + Schema-aware prompting (RAG-ready)  
+* **Database:** MongoDB (Primary), MySQL (Supported)  
+* **Vector DB (Planned):** Pinecone / FAISS  
 
 #### ⚙️ Features
-- User authentication system  
-- Converts English → SQL queries  
-- Executes SQL and returns results in UI  
-- Chat-style query interface  
-- Secure handling of database credentials  
+* Natural Language → SQL & NoSQL query generation  
+* Multi-database support (MongoDB + MySQL)  
+* Schema-aware intelligent query generation  
+* AI-powered autocomplete & suggestion system  
+* Fraud / anomaly detection for unsafe queries (admin approval flow)  
+* Role-based access control (Admin / Developer)  
+* Schema caching with auto/manual sync  
+* Chat-style query interface with structured JSON responses    
 
 ---
 
